@@ -1,0 +1,6 @@
+/nba.json
+/elo.code-workspace
+data/
+__pycache__/
+settings.json
+list_selection.json
